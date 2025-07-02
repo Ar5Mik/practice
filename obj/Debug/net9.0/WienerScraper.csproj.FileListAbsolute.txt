@@ -1,0 +1,5 @@
+/Users/aleksandr/Desktop/Практика/WienerScraper/obj/Debug/net9.0/WienerScraper.csproj.AssemblyReference.cache
+/Users/aleksandr/Desktop/Практика/WienerScraper/obj/Debug/net9.0/WienerScraper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandr/Desktop/Практика/WienerScraper/obj/Debug/net9.0/WienerScraper.AssemblyInfoInputs.cache
+/Users/aleksandr/Desktop/Практика/WienerScraper/obj/Debug/net9.0/WienerScraper.AssemblyInfo.cs
+/Users/aleksandr/Desktop/Практика/WienerScraper/obj/Debug/net9.0/WienerScraper.csproj.CoreCompileInputs.cache
