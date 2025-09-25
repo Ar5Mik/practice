@@ -1,3 +1,8 @@
+https://drive.google.com/file/d/1FVHIGUMRNgLiTxA8uQrN0cSLTf7noSxW/view?usp=sharing
+ПОЛНЫЙ АРХИВ РАТОБЫ И ПРИЛОЖЕНИЯ
+
+
+
 # WienerScraper
 
 1. Скачаем HTML-страницу с сайта [wienerborse.at](https://www.wienerborse.at/en/bonds/)
